@@ -363,6 +363,19 @@ Terakhir yaitu membuat **card-footer** dengan class card yang terdapat dibootstr
 </div>
 ```
 
+## 10).FULL LAYOUT
+![full-layout](img/full_layout.png)
+
+Tampilan full layout
+
+----------------------------------------------------------------
+
+## UNTUK PERTEMUAN KALI INI CUKUP SAMPAI DISINI DAN SELAMAT MENJALANKAN UJIAN TENGAH SEMESTER SEMOGA DIPERMUDAH DALAM MENGERJAKAN NYA
+
+### HORMATI SIPEMBUAT SEBELUM COPY
+
+### @HERLIYANSYAH
+
 
 
 
